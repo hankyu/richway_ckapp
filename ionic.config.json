@@ -1,8 +1,0 @@
-{
-  "name": "richway_ckapp",
-  "app_id": "cbe17f5a",
-  "type": "ionic-angular",
-  "integrations": {
-    "cordova": {}
-  }
-}
